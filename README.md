@@ -1,2 +1,2 @@
-# html-capstopne-project-resume
+# html-capstone-project-resume
 Simple CV created using HTML
